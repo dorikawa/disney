@@ -137,7 +137,7 @@ width:970px;
 <p align="right"><marquee direction="left" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
 
 <!--流れ文字の挿入例-->
-<h1><span class="yellow"><marquee behavior="alternate">!!! Lassen パンフレット !!!</marquee></span></h1>
+<h1><span class="yellow"><marquee behavior="alternate">!!! DREAM ART WORLD パンフレット !!!</marquee></span></h1>
 
 
 <!--ここから下が、本体部分-->
